@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background: rgb(126, 73, 104);
+  
+  }
+ 
+  
+  button {
+    background-color: #cea6cfb2;
+    border-radius: 25px;
+    border: none;
+    color: #000;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 1rem 3rem;
+    margin: 10px 25px;
+  }
+  button:hover{
+    background: rgb(236, 234, 224);
+    color: darkgray;
+    cursor: pointer;
+  }
+  div {
+    padding: 20px 30px;
+    margin-left: 10%;
+    
+  }
+  .cards{
+      align-items: center;
+      
+  }
+  
+  
+  h1{
+    padding: 2rem;
+    text-shadow: rgb(212, 180, 228) 4px 4px 4px;
+    text-align: center;
+    color: rgb(32, 3, 19);
+    margin-top: 2%;
+    font-family: cursive;
+
+    
+  }
+  h4{
+      padding: 0.4rem;
+      font-family: cursive;
+  }
+  h3{
+      font-family: cursive;
+      font-size: medium;
+      padding: 0.4rem;
+  }
+  
+  img {
+    max-width: 90vw;
+    border-radius: 25px;
+    height:60vh ;
+  }
+  img:hover{
+      cursor: pointer;
+      
+  }
+  i{
+      color: rgb(112, 7, 102);
+  }
+  i:hover{
+      color: rgb(112, 8, 8);
+      cursor: pointer;
+  }
+  
+  a{
+      color: rgb(223, 215, 223);
+      text-decoration: none;
+      font-family: cursive;
+    
+
+  }
+  a:hover{
+      color: rgb(13, 46, 78);
+      cursor: pointer;
+  }
