@@ -24,7 +24,9 @@
   - Open index.html file in browser.
   
 # Repo Link:
-    https://github.com/abida128/Product-List-App.git
+
+      https://github.com/abida128/Product-List-App.git
     
 # Live Link:
-    https://codepen.io/abida128/pen/zYzxvrN?editors=0010
+
+       https://codepen.io/abida128/pen/zYzxvrN?editors=0010
